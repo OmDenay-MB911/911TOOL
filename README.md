@@ -1,7 +1,7 @@
-# All Commands BlackMafia
+# hack911
 
 
-⭕No 1
+
 apt update
 apt upgrade
 pkg install python
@@ -10,8 +10,8 @@ pkg install git
 pip2 install requests
 pip2 install mechanize
 git clone https://github.com/OmDenay-MB911/hack911
-cd World
-python2 Cloning.py
+cd hack911
+python2 911TOLL.py
 
 User: Black
 pass: Mafia
